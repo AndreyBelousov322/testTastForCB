@@ -6,8 +6,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 
 
-
-
 public class TestTusurRu extends WebDriverSettings{
 
     @Test
